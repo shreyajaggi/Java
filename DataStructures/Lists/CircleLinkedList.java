@@ -56,7 +56,7 @@ public class CircleLinkedList<E> {
         // scrubbing
         destroy = null;
         size--;
-        return saved;
+        return saved;// return saved
 
     }
 
